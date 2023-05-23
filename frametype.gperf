@@ -358,6 +358,11 @@ WORS, FRAME(url),  PRESERVE, "Official Internet radio station homepage"
 WPAY, FRAME(url),  PRESERVE, "Payment"
 WPUB, FRAME(url),  PRESERVE, "Publishers official webpage"
 WXXX, FRAME(WXXX), PRESERVE, "User defined URL link frame"
+YTSA, FRAME(text), PRESERVE, "iTunes 2.2 Sort Album"
+YTSC, FRAME(text), PRESERVE, "iTunes 2.2 Sort Composer"
+YTSP, FRAME(text), PRESERVE, "iTunes 2.2 Sort Performer"
+YTST, FRAME(text), PRESERVE, "iTunes 2.2 Sort Title"
+YTS2, FRAME(text), PRESERVE, "iTunes 2.2 Sort Album Artist"
 #
 # Special frames
 #
